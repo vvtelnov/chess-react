@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a625019.css",
+    "main.js": "/static/js/main.04b1624e.js",
+    "static/js/787.45967197.chunk.js": "/static/js/787.45967197.chunk.js",
+    "static/media/king_black.png": "/static/media/king_black.a67c88b245c4c884a4b1.png",
+    "static/media/king_white.png": "/static/media/king_white.1861194b65efc92a41eb.png",
+    "static/media/bishop_white.png": "/static/media/bishop_white.d1ebdfdc70eb3b048a67.png",
+    "static/media/queen_white.png": "/static/media/queen_white.bc954d1473a8e6d9fd18.png",
+    "static/media/queen_black.png": "/static/media/queen_black.cac803ecc1df0c889cb1.png",
+    "static/media/bishop_black.png": "/static/media/bishop_black.687992de4310627f2372.png",
+    "static/media/pawn_white.png": "/static/media/pawn_white.c1ba649b91dc0105bd8c.png",
+    "static/media/rook_white.png": "/static/media/rook_white.2026b6ba5eaf1621d69d.png",
+    "static/media/knight_white.png": "/static/media/knight_white.c26e110c9bc010139639.png",
+    "static/media/rook_black.png": "/static/media/rook_black.ae765b38fb6c66823a53.png",
+    "index.html": "/index.html",
+    "main.5a625019.css.map": "/static/css/main.5a625019.css.map",
+    "main.04b1624e.js.map": "/static/js/main.04b1624e.js.map",
+    "787.45967197.chunk.js.map": "/static/js/787.45967197.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a625019.css",
+    "static/js/main.04b1624e.js"
+  ]
+}
