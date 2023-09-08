@@ -1,0 +1,4 @@
+.chess-board__cell {
+	position: relative;
+	display: flex;
+}

@@ -1,0 +1,10 @@
+.taken-pieces__type-container {
+  position: relative;
+  box-sizing: border-box;
+  height: 40px;
+  margin-right: 20px;
+}
+
+.taken-pieces__type-container:last-child {
+  margin-right: 0;
+}

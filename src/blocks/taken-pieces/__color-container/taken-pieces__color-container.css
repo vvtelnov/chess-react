@@ -1,0 +1,6 @@
+.taken-pieces__color-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+	width: 800px;
+}

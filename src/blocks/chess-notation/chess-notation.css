@@ -1,0 +1,15 @@
+.chess-notation {
+	font-family: sans-serif;
+  position: absolute;
+  overflow-y: scroll;
+  /* overflow-anchor: auto; */
+  top: 10px;
+  margin: 0;
+  padding: 0;
+  width: 95%;
+  height: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: center;
+}

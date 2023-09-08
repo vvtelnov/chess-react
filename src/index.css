@@ -1,0 +1,57 @@
+/* vendors */
+
+/* normalize.css */
+@import url(./vendor/normalize.css);
+/* fonts */
+
+
+/* styles */
+
+/* page */
+@import url(./blocks/app/app.css);
+
+/* chess-board */
+@import url(./blocks/chess-board/chess-board.css);
+@import url(./blocks/chess-board/__cell-moveBtn/chess-board__cell-moveBtn.css);
+@import url(./blocks/chess-board/__cell-captureBtn/chess-board__cell-captureBtn.css);
+@import url(./blocks/chess-board/__cell/chess-board__cell.css);
+@import url(./blocks/chess-board/__cell/_color/chess-board__cell_color_black.css);
+@import url(./blocks/chess-board/__cell/_color/chess-board__cell_color_white.css);
+@import url(./blocks/chess-board/__cell/_color/chess-board__cell_color_red.css);
+@import url(./blocks/chess-board/__cell/_text/chess-board__cell_text_letter.css);
+@import url(./blocks/chess-board/__cell/_text/chess-board__cell_text_number.css);
+
+
+/* chess-piece */
+@import url(./blocks/chess-piece/chess-piece.css);
+
+/* taken-pieces */
+@import url(./blocks/taken-pieces/taken-pieces.css);
+@import url(./blocks/taken-pieces/__color-container/taken-pieces__color-container.css);
+@import url(./blocks/taken-pieces/__type-container/taken-pieces__type-container.css);
+@import url(./blocks/taken-pieces/__piece/taken-pieces__piece.css);
+
+/* promotion menu */
+@import url(./blocks/promotion-menu/promotion-menu.css);
+@import url(./blocks/promotion-menu/_piece-color/promotion-menu_piece-color_black.css);
+@import url(./blocks/promotion-menu/_piece-color/promotion-menu_piece-color_white.css);
+@import url(./blocks/promotion-menu/_arrow-side/promotion-menu_arrow-side_left.css);
+@import url(./blocks/promotion-menu/_arrow-side/promotion-menu_arrow-side_right.css);
+@import url(./blocks/promotion-menu/__chess-piece/promotion-menu__chess-piece.css);
+
+/* popup */
+@import url(./blocks/popup/popup.css);
+
+/* winner-poup */
+@import url(./blocks/winner-popup/winner-popup.css);
+@import url(./blocks/winner-popup/__title/winner-popup__title.css);
+@import url(./blocks/winner-popup/__image/winner-popup__image.css);
+@import url(./blocks/winner-popup/__btn/winner-popup__btn.css);
+
+/* chess-notation */
+@import url(./blocks/chess-notation/chess-notation.css);
+@import url(./blocks/chess-notation/__item/chess-notation__item.css);
+@import url(./blocks/chess-notation/__counter/chess-notation__counter.css);
+@import url(./blocks/chess-notation/__note/chess-notation__note.css);
+
+

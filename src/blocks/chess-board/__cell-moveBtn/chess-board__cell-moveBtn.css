@@ -1,0 +1,8 @@
+.chess-board__cell-moveBtn {
+  border: none;
+  border-radius: 50px;
+  width: 60px;
+  height: 60px;
+  margin: auto;
+  background-color: rgba(95, 83, 36, 0.775);
+}

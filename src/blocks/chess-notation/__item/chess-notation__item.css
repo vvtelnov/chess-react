@@ -1,0 +1,12 @@
+.chess-notation__item {
+  margin: 0;
+  margin-right: 25px;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.chess-notation__item:last-of-type {
+  margin-right: 0;
+}

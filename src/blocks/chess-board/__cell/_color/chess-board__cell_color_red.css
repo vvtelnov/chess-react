@@ -1,0 +1,7 @@
+.chess-board__cell_color_red {
+	background-color: #933737;
+}
+
+.chess-board__cell_color_red span {
+	color: #eeeed5;
+}

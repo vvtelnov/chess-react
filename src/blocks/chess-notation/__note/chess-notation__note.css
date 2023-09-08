@@ -1,0 +1,7 @@
+.chess-notation__note {
+  margin: 0 10px 0 0;
+}
+
+.chess-notation__note:last-of-type {
+  margin-right: 0;
+}

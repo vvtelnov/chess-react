@@ -1,0 +1,8 @@
+.chess-board__cell_text_letter {
+	font-family: sans-serif;
+	position: absolute;
+	top: 70px;
+	left: 83px;
+	font-size: 25px;
+	font-weight: bold;
+}

@@ -1,0 +1,6 @@
+.taken-pieces__piece {
+  position: absolute;
+	margin: auto;
+	width: 40px;
+	height: 40px;
+}

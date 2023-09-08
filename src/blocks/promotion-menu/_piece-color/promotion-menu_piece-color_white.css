@@ -1,0 +1,11 @@
+.promotion-menu_piece-color_white {
+  margin-bottom: 17px;
+}
+
+.promotion-menu_piece-color_white::after {
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-top: 40px solid #eeeed5;
+  border-bottom: 10px solid transparent;
+  bottom: -50px;
+ }

@@ -1,7 +1,9 @@
+import ChessBoard from "./ChessBoard"
+
 export default function App() {
   return (
-    <div>
-
-    </div>
+    <main className='app'>
+      <ChessBoard />
+    </main>
   )
 }
