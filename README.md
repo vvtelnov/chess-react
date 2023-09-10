@@ -1,4 +1,4 @@
-![white_promotion](https://github.com/vvtelnov/chess-react/assets/96323219/ede83caa-eb01-489d-befe-13c2c607fbd3)# The game of chess 
+# The game of chess 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -40,8 +40,8 @@ These features make our chess project not only a traditional chess-playing exper
 ![Demo Video](https://github.com/vvtelnov/chess-react/assets/96323219/d048d00b-de12-42ec-b1cd-292bb3dabdf9)
 
 
-[White won popup](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/white_won.jpg)
-![white_won](https://github.com/vvtelnov/chess-react/assets/96323219/f410b3ed-3ab7-4a74-9b5b-c60815b43291)
+
+[![White won](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/assets/96323219/f410b3ed-3ab7-4a74-9b5b-c60815b43291)
 
 [![Black promotion](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/black_promotion.jpg)
 ![black_promotion](https://github.com/vvtelnov/chess-react/assets/96323219/4fb2128d-e32d-4ec9-bdc8-4ad3a44d789a)
