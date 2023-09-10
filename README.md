@@ -38,6 +38,12 @@ These features make our chess project not only a traditional chess-playing exper
 ## Demo
 [![Demo Video](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/game-preview.gif)
 
+[White won popup](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/white_won.jpg)
+
+[![Black promotion](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/black_promotion.jpg)
+
+[![White promotion](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/white_promotion.jpg)
+
 [Include a link or embed a video/gif showcasing your project in action. This helps users quickly understand what your project does and its visual appeal.]
 
 <!-- ![Demo GIF/Video](demo.gif) or [Live Demo](https://example.com) -->
