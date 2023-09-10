@@ -37,6 +37,7 @@ These features make our chess project not only a traditional chess-playing exper
 
 ## Demo
 [![Demo Video](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/assets/96323219/d048d00b-de12-42ec-b1cd-292bb3dabdf9)
+[Demo](https://github.com/vvtelnov/chess-react/assets/96323219/d048d00b-de12-42ec-b1cd-292bb3dabdf9)
 
 [![White won](https://img.shields.io/badge/Demo-IMG-brightgreen)](https://github.com/vvtelnov/chess-react/assets/96323219/f410b3ed-3ab7-4a74-9b5b-c60815b43291)
 
