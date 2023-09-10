@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Welcome to **[The game of chess ]**! This is a chess game, built using JavaScript and React.
+Welcome to **[The game of chess ](https://vvtelnov.github.io/chess-react)**! This is a chess game, built using JavaScript and React.
 
 ## Stack
 
@@ -45,14 +45,22 @@ These features make our chess project not only a traditional chess-playing exper
 
 To run this project locally, follow these steps:
 
-1. [Clone the repository](#)
-    git clone git@github.com:vvtelnov/chess-react.git
-2. [Install dependencies](#)
-    npm install
-3. [Start the development server](#)
-    npm start
-4. [Open the project in your browser](#)
-    Open your web browser and go to http://localhost:3000/
+1. Clone the repository
+```
+   git clone git@github.com:vvtelnov/chess-react.git
+```
+2. Install dependencies
+```
+   npm install
+```
+3. Start the development server
+```
+   npm start
+```
+4. [Open the project in your browser]
+```
+   Open your web browser and go to http://localhost:3000/
+```
 
 ## Usage
 
