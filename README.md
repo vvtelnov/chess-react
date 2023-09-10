@@ -36,10 +36,11 @@ Welcome to **[The game of chess ](https://vvtelnov.github.io/chess-react)**! Thi
 These features make our chess project not only a traditional chess-playing experience but also a versatile and enjoyable platform for chess enthusiasts of all levels.
 
 ## Demo
+[![Demo Video](https://img.shields.io/badge/Demo-Video-brightgreen)](https://github.com/vvtelnov/chess-react/releases/download/v1.0.0/game-preview.gif)
 
 [Include a link or embed a video/gif showcasing your project in action. This helps users quickly understand what your project does and its visual appeal.]
 
-![Demo GIF/Video](demo.gif) or [Live Demo](https://example.com)
+<!-- ![Demo GIF/Video](demo.gif) or [Live Demo](https://example.com) -->
 
 ## Installation
 
