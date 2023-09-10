@@ -106,7 +106,7 @@ export default function ChessBoard() {
 
   // update kingsState useEffect
   useEffect(() => {
-    function updateKingsState (whiteColorKingState, blackColorKingState) {
+    function updateKingsState(whiteColorKingState, blackColorKingState) {
       setKingsState({
         ...kingsState,
         white: whiteColorKingState,
